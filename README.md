@@ -1,5 +1,7 @@
 ﻿# IEEEHackathon
- 
+  
+  
+ Sound Alpha - Decentralized Music NFT Exchange Platform paired with Abelian infra|
  
  Designed and optimized the front-end of the platform using React, Next.js, capitalizing on the Ant-Design UI library and utilized Abelian infrastructure to enhance the post quantum
 crypto ecosystem.
